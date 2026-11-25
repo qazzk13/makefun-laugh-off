@@ -7,7 +7,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 process.umask(0o022);
 
 const JOKE =
-  "My dad bought a smart lock so nobody could break in, then locked himself out three times in the first week and now leaves the key under the same flowerpot.";
+  "Dad fitted a smart lock so no one could break in, locked himself out three times by Tuesday, and now just leaves the key under the flowerpot like it's 1998.";
 
 const chars = [...JOKE].length;
 if (chars < 1 || chars > 200 || JOKE.trim().length === 0) {

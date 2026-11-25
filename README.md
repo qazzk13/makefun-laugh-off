@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/qazzk13/makefun-laugh-off/rank.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
 [![reward](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/qazzk13/makefun-laugh-off/reward.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
 
-One joke about my dad, his new smart lock, and the flowerpot that ended up doing all the actual work, for make.fun's "One-Line Laugh-Off" bounty.
+One joke about my dad, his new smart lock that kept locking him out, and the flowerpot by the door that quietly took its job back, for make.fun's "One-Line Laugh-Off" bounty.
 
 `main.ts` (Node 22.18+, no dependencies, no network) writes that single line to `/output/entry.txt`.
 
